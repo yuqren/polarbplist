@@ -1,5 +1,5 @@
 # BP-List Decoding
-Code for paper "High-Throughput Flexible Belief Propagation List Decoder for Polar Codes," arXiv preprint arXiv:2210.13887 (2022).[[paper]](https://arxiv.org/abs/2210.13887)
+Code for paper "High-Throughput and Flexible Belief Propagation List Decoder for Polar Codes," arXiv preprint arXiv:2210.13887 (2022).[[paper]](https://arxiv.org/abs/2210.13887)
 
 If you find they are useful, please cite:
 ```
